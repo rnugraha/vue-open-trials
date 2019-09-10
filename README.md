@@ -1,4 +1,4 @@
-# vue-icd10
+# vue-open-trials
 
 ## Project setup
 ```
